@@ -1,4 +1,4 @@
-module.exports = function main() {
+module.exports = function main(inputs) {
 
     var queryCount=inputs.reduce(function(r,v){
         r.set(v.Name,(r.get(v.Name)||0)+1);
@@ -42,14 +42,14 @@ module.exports = function main() {
             if (itemCount[i]>1){
                 text+='Name: '+itemName[i]+
                 ', Quantity: '+itemCount[i]+' '+itemUnit[i]+
-                's, UnitPrice: '+itemPrice[i].toFixed(2)+' (yuan),'+
-                ' Subtotal: '+itemPrice[i].toFixed(2)*itemCount[i]+' (yuan)\n';
+                's, Unit price: '+itemPrice[i].toFixed(2)+' (yuan),'+
+                ' Subtotal: '+(itemPrice[i]*itemCount[i]).toFixed(2)+' (yuan)\n';
             }
             else{
                 text+='Name: '+itemName[i]+
                 ', Quantity: '+itemCount[i]+
-                ', UnitPrice: '+itemPrice[i].toFixed(2)+' (yuan),'+
-                ' Subtotal: '+itemPrice[i].toFixed(2)*itemCount[i]+' (yuan)\n';
+                ', Unit price: '+itemPrice[i].toFixed(2)+' (yuan),'+
+                ' Subtotal: '+(itemPrice[i]*itemCount[i]).toFixed(2)+' (yuan)\n';
             }
            
         }
