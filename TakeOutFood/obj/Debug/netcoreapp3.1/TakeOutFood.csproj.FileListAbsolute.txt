@@ -1,0 +1,9 @@
+D:\bootCamp\bootcampStudy\repo\TakeOutFood-2020-11-3-2-4-34-397\TakeOutFood\bin\Debug\netcoreapp3.1\TakeOutFood.deps.json
+D:\bootCamp\bootcampStudy\repo\TakeOutFood-2020-11-3-2-4-34-397\TakeOutFood\bin\Debug\netcoreapp3.1\TakeOutFood.dll
+D:\bootCamp\bootcampStudy\repo\TakeOutFood-2020-11-3-2-4-34-397\TakeOutFood\bin\Debug\netcoreapp3.1\TakeOutFood.pdb
+D:\bootCamp\bootcampStudy\repo\TakeOutFood-2020-11-3-2-4-34-397\TakeOutFood\obj\Debug\netcoreapp3.1\TakeOutFood.csprojAssemblyReference.cache
+D:\bootCamp\bootcampStudy\repo\TakeOutFood-2020-11-3-2-4-34-397\TakeOutFood\obj\Debug\netcoreapp3.1\TakeOutFood.AssemblyInfoInputs.cache
+D:\bootCamp\bootcampStudy\repo\TakeOutFood-2020-11-3-2-4-34-397\TakeOutFood\obj\Debug\netcoreapp3.1\TakeOutFood.AssemblyInfo.cs
+D:\bootCamp\bootcampStudy\repo\TakeOutFood-2020-11-3-2-4-34-397\TakeOutFood\obj\Debug\netcoreapp3.1\TakeOutFood.csproj.CoreCompileInputs.cache
+D:\bootCamp\bootcampStudy\repo\TakeOutFood-2020-11-3-2-4-34-397\TakeOutFood\obj\Debug\netcoreapp3.1\TakeOutFood.dll
+D:\bootCamp\bootcampStudy\repo\TakeOutFood-2020-11-3-2-4-34-397\TakeOutFood\obj\Debug\netcoreapp3.1\TakeOutFood.pdb
